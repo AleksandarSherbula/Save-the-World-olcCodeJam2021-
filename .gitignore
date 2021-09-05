@@ -1,0 +1,10 @@
+#Directories
+build/
+assets/images/
+.vs/
+
+# files
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
